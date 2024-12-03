@@ -17,4 +17,28 @@ These metrics are visualized using Calculated Measures and custom formulas. The 
 
 ![image alt](https://github.com/Saktalmale16/Excel_dashboard_project-3/blob/613240ec11ab3fec58ed614aafe002647a66b48d/Excel%20Dashboard.PNG)
 
-# Calculated Measure
+# Key Performance Indicator
+
+Total Revenue: 1,709M
+
+Average Rating: 3.62
+
+Occupancy Rate: 57.87%
+
+Cancellation Rate: 14.88%
+
+Utilized Capacity: 232
+
+# Informative Charts
+
+Weekly Treand
+
+Weekly Report
+
+Revenue By Booking Status
+
+Revenue and Booking By Daytype
+
+Revenue By Room Class
+
+Revenue By Cities
