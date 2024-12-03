@@ -17,6 +17,21 @@ These metrics are visualized using Calculated Measures and custom formulas. The 
 
 ![image alt](https://github.com/Saktalmale16/Excel_dashboard_project-3/blob/613240ec11ab3fec58ed614aafe002647a66b48d/Excel%20Dashboard.PNG)
 
+# Calculated Measure
+
+Average Rating = Average(fact_bookings_2[ratings_given])
+
+Total Revenue = [Sum of revenue_realized]
+
+Utilize capacity = SUM(fact_aggregated_bookings[capacity])
+
+Occupancy % = [total bookings]/[Sum of capacity]
+
+Cancellation rate = [cancellation amount]/[Sum of revenue_generated]
+
+
+
+
 # Key Performance Indicator
 
 Total Revenue: 1,709M
