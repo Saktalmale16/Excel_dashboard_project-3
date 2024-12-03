@@ -11,7 +11,7 @@ Revenue trends,Occupancy rate (%),Average ratings,Utilized capacity,Cancellation
 These metrics are visualized using Calculated Measures and custom formulas. The analysis includes tracking weekly performance trends, examining room utilization, and evaluating customer satisfaction to support data-driven decision-making.This project demonstrates a comprehensive data analysis process—from importing and validating data to creating Calculated Measures for tailored insights. It showcases proficiency in Excel functions (including VLOOKUP, IF statements, and data validation) and data visualization techniques (like PivotTables, charts, and conditional formatting) within the hospitality industry.
 
 # Data Model
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Excel_dashboard_project-3/blob/6bcfdc1e90fa676f493f8c6c236f9ecec7c4c8fb/Data%20Model.PNG)
 
 # Project Screenshot
 
